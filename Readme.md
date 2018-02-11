@@ -23,6 +23,7 @@ modules: [
 ````
 ## Configuration options
 The following properties can be configured:
+
 | Option                       | Description
 | ---------------------------- | -----------
 | `tubes`                      | **Default:** `true` <br><br> When set to `false`, the fake glass tubes are not shown.
