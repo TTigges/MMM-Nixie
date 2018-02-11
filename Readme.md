@@ -22,6 +22,7 @@ modules: [
 ]
 ````
 ## Configuration options
+
 The following properties can be configured:
 
 | Option                       | Description
