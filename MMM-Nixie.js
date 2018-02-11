@@ -108,7 +108,7 @@ Module.register("MMM-Nixie",{
 				}
 			}
 			if (this.config.tubes) {
-				for (g = 0; g < 3; g++) {
+				for (g = 0; g < 4; g++) {
 					var glass = document.createElement("span");
 					glass.classList.add("glass");
 					glass.classList.add("glass" + g);

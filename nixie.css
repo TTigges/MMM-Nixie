@@ -104,7 +104,7 @@ html, body {
 	        box-shadow: inset 8px 8px 6px -6px white;
 
 }
-#nixie .digit .glass0 {
+#nixie .digit .glass1 {
   position: absolute;
   display: block;
   width: 100%;
@@ -116,7 +116,7 @@ html, body {
 	        box-shadow: inset 8px 0px 6px -6px white;
 
 }
-#nixie .digit .glass1 {
+#nixie .digit .glass2 {
   position: absolute;
   display: block;
   width: 100%;
@@ -128,7 +128,7 @@ html, body {
 	        box-shadow: inset 0px 8px 6px -6px white;
 
 }
-#nixie .digit .glass2 {
+#nixie .digit .glass3 {
   position: absolute;
   display: block;
   width: 100%;
